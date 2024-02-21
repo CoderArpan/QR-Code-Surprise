@@ -1,0 +1,4 @@
+install the modules:
+
+# pip install qrcode[pil]
+
